@@ -6,7 +6,6 @@
     "dev": "node --watch server.js",
   
     "postinstall": "prisma generate",
-    "build": "prisma generate",
     "start": "node server.js"
   
   },
